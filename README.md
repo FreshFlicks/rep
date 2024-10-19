@@ -119,7 +119,7 @@ brew install node
 3. Install Git
 
 ```
-brew install git
+brew install git xdxd
 ```
 
 ## Project Setup
