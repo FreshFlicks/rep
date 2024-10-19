@@ -286,7 +286,7 @@ The following page simple allows you to view a previously created timetable.
 
 This application's RESTful API is powered by Express.js
 
-All routes are appended underneith `{root}/api/v1/`. Ex: `http://localhost:5000/api/v1/scheduledEvents`
+All routes are appended underneath `{root}/api/v1/`. Ex: `http://localhost:5000/api/v1/scheduledEvents`
 
 **NOTE:** Any endpoint that **requires authorization** must be appended with the **Authorization header** and **jwt token** retrieved from the [login endpoint](#login---post-login).
 
